@@ -1,0 +1,16 @@
+{
+  "packs": [
+    {
+      "id": "pack-eins",
+      "name": "Pack Eins",
+      "file": "pack-eins.zip",
+      "thumbnail": "pack-eins.png"
+    },
+    {
+      "id": "pack-zwei",
+      "name": "Pack Zwei",
+      "file": "pack-zwei.zip",
+      "thumbnail": "pack-zwei.png"
+    }
+  ]
+}
